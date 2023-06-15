@@ -21,8 +21,8 @@ The Excel file includes the Orders and Details Dataset with different types of a
 
 # Sample Insights
 1. Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi have more sales than the remaining states, as per the data.
-2. The first most preferred payment mode used by customers is cash-on-delivery, and UPI is the second most used other payment mode. Specifically, EMI is the least preferred payment mode.
-3. As per the profit of Sore by month, the store gain the most profit in Querter-1. In Quarter-2 gain very less profit and in May month gain some loss also. In August month only the store gain some profit and gain tremendous loss in the other 2 months in Quarter-3. The most profit gain throughout the year in November month and in December store gain some loss as well due to the off-season in Quarter-4.
+2. The first most preferred payment mode used by customers is cash-on-delivery, and UPI is the second most popular other payment mode. Specifically, EMI is the least preferred payment mode.
+3. As per the profit of Sore by month, the store gained the most profit in Querter-1. In Quarter 2, the store gained very little profit, and in May month gain some loss also. In August, only the store made some profit, and it made tremendous losses in the other 2 months in Quarter-3. The most profit gain throughout the year in November month and in December store gain some loss as well due to the off-season in Quarter-4.
 5. Most ordered product category by customers is Clothing, Electronics & Furniture.
   
 # Final conclusion to improve Store's E-Commerce Sales:
