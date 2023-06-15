@@ -16,8 +16,7 @@ The Excel file includes the Orders and Details Dataset with different types of a
 5. Visualizations: The dashboard includes interactive charts and graphs to present the analysis in a clear and concise manner. The analysis is designed to be easy to interpret and understand, even for non-technical users.
 
 # E-Commerce Sales Dashboard
-![Store Ecommerce Sales Dashboard](https://github.com/Rupalihirdekar/E-Commerce-Sales-Dashboard---Power-BI-Project-/assets/121499040/58f4275a-ca52-4d9c-ae03-2a0f884e5347)
-
+![Store Ecommerce Sales Dashboard](https://github.com/Rupalihirdekar/E-Commerce-Sales-Dashboard---Power-BI-Project-/assets/121499040/cd981b1a-0bfe-4a87-bdc4-7480d375a959)
 
 # Sample Insights
 1. Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi have more sales than the remaining states, as per the data.
