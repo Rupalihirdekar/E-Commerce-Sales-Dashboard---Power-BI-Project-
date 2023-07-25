@@ -1,5 +1,5 @@
-# E-Commerce-Sales-Dashboard-Power-BI-Project
-The E-commerce Sales Dashboard is a project aimed at providing a visual representation of sales data in the e-commerce domain. It fetches data from the order table and the details table. The E-Commerce Sales Analysis Power BI project gains insights into various aspects of business, such as revenue, product performance, customer behavior, and more, to help make informed decisions about product offerings, marketing strategies, and resource allocation.
+# E-Commerce-Sales-Dashboard
+The E-commerce Sales Dashboard is a project aimed at visually representing sales data in the e-commerce domain. It fetches data from the order table and the details table. The E-Commerce Sales Analysis Power BI project gains insights into various aspects of business, such as revenue, product performance, customer behaviour, and more, to help make informed decisions about product offerings, marketing strategies, and resource allocation.
 
 # Introduction
 The purpose of this project is to analyze the sales data of e-commerce stores to identify trends, patterns, and insights that can be used to improve decision-making. The project includes several worksheets with different types of analysis, such as sales analysis, product analysis, and customer analysis. The analysis is presented in a clear and concise manner to facilitate easy interpretation and understanding.
